@@ -1,6 +1,6 @@
-### S3 Website Automation to deploy new version
+# S3 Website Automation to deploy new version
 
-# create env
+### create env
 install virtualenv  
 `sudo apt install python3-pip`  
 `sudo apt-get install python3-virtualenv`  
@@ -14,7 +14,7 @@ create virtualenv
 activate the env  
 `source .venv/bin/activate`  
 
-# Create a new S3 bucket
+### Create a new S3 bucket
 install boto3  
 `pip3 install boto3`  
 
