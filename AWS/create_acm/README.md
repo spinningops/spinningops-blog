@@ -20,3 +20,5 @@ Install boto3
 
 Run the script  
 `create_acm.py`  
+
+You'll need to update your domain CNAME record to verify the certificate   
