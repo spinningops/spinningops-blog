@@ -1,4 +1,4 @@
-# S3 Website Automation to deploy new version
+# S3 Website Hosting
 
 ### create env
 install virtualenv  
