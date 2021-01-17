@@ -61,8 +61,8 @@ def enable_static_website_hosting():
 if __name__ == '__main__':
     ''' execute the function you want,
     uncomment to reuse functions '''
-    # create_bucket(BUCKET_NAME)
+    create_bucket(BUCKET_NAME)
     # host_static_website(WEBSITE_BUCKET_NAME)
     # create_bucket_policy()
-    enable_static_website_hosting()
+    # enable_static_website_hosting()
 
