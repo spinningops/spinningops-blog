@@ -18,6 +18,6 @@ activate the env
 install boto3  
 `pip3 install boto3`  
 
-run the script
+run the script  
 `create_hosted_bucket.py`  
 
