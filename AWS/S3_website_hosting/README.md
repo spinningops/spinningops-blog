@@ -1,6 +1,6 @@
 # S3 Website Hosting
 
-### create env
+### Create env
 Install virtualenv  
 `sudo apt install python3-pip`  
 `sudo apt-get install python3-virtualenv`  
