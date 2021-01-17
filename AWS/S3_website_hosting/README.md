@@ -1,23 +1,23 @@
 # S3 Website Hosting
 
 ### create env
-install virtualenv  
+Install virtualenv  
 `sudo apt install python3-pip`  
 `sudo apt-get install python3-virtualenv`  
 
-this version 20.0.23 works with ubuntu 20.04  
+This version 20.0.23 works with ubuntu 20.04  
 `pip3 install virtualenv==20.0.23`  
 
-create virtualenv  
+Create virtualenv  
 `virtualenv .venv`  
 
-activate the env  
+Activate the env  
 `source .venv/bin/activate`  
 
 ### Create a new S3 bucket
-install boto3  
+Install boto3  
 `pip3 install boto3`  
 
-run the script  
+Run the script  
 `create_hosted_bucket.py`  
 
