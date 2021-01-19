@@ -13,4 +13,4 @@ You may contribute code if you want, just contact me.
 5. Submit a pull request
 
 ### Link to read the blog posts
-https://spinningops.com/
+https://spinningops.com
