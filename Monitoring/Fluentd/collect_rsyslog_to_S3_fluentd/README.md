@@ -1,4 +1,4 @@
-# Collect Rsyslog with Fluentd
+# Collect Rsyslog to S3 with Fluentd
 
 create debian machines:   
 1. fluentd
@@ -26,7 +26,7 @@ Install netstat if you want to check traffic
 ### Before install - create IAM user
 1. create a new IAM user with permmisions ONLY to the specific bucket     
 2. you can use example policy to attach to that IAM user with full permissions ONLY to the specific bucket   
-[a link](bucket_policy.json)   
+[backet policy](bucket_policy.json)   
 
 ### Install ruby
 ```apt-get install ruby-full```   
@@ -48,7 +48,7 @@ create the configuration file
 ```fluentd --setup /etc/fluent```   
 edit conf file (sample file here)   
 ```vi /etc/fluent/fluent.conf```   
-[a link](fluent.conf)   
+[fluent.conf](fluent.conf)   
 
 ### Send log messages to Fluentd
 edit   
