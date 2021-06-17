@@ -21,4 +21,4 @@ get the secret with admin role
 
 log in with the admin token   
 
-[![webui](image)](.admin-token-webui-k8s.png)
+![webui login](pics/admin-token-webui-k8s.png)
