@@ -1,4 +1,4 @@
-# SpinningOps blog (code snippents)
+# SpinningOps blog (code snippets)
 
 Each directory is a self-contained code snippets that demonstrates usage of the various API and Scripts. The examples are built on different libraries and popular open source frameworks (Python, boto3, etc).
 
